@@ -1,0 +1,5 @@
+{
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+  "appService.defaultWebAppToDeploy": "/subscriptions/60df6f27-7d36-46bb-8997-eb1c4ee06248/resourceGroups/yoobee24/providers/Microsoft.Web/sites/mytestwebapp",
+  "appService.deploySubpath": "."
+}
